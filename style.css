@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.halfside{
+    width: 30%;
+    float: left;
+    padding-left: 8%;
+    margin: 2%;
+
+}
+.halfside img{
+    width: 100%;
+}
+.namestyle{
+    color: darkgreen ;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+.headpart{
+    background-image: url(imgs/header-bg.png);
+}
+
+.biography{
+    background-image: url(imgs/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.lastwork{
+    background-image: url(imgs/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.lastwork h2{
+    text-align: center;
+}
+.onethird{
+    width: 25%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin: 3%;
+}
+.onethird img{
+    width: 100%;
+}
+.client{
+    text-align: center;
+    background-image: url(imgs/footer-bg.png);
+}
+.lastbutton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
